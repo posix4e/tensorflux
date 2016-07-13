@@ -1,4 +1,5 @@
-# TensorFlux [![Version][version-icon]][version-page] [![Status][status-icon]][status-page]
+# TensorFlux [![Version][version-icon]][version-page] [![Status][status-icon]][status-page][![Chat on irc] (https://img.shields.io/badge/chat-on%20mozilla%20rust--tensorflow-brightgreen.svg)](irc://irc.mozilla.org/rust-metrics)
+
 
 The package provides an interface to [TensorFlow][tensorflow].
 
@@ -51,7 +52,6 @@ This and other examples can be found in the [examples](examples) directory.
 Your contribution is highly appreciated. Do not hesitate to open an issue or a
 pull request. Note that any contribution submitted for inclusion in the project
 will be licensed according to the terms given in [LICENSE.md](LICENSE.md).
-
 [configuration]: https://github.com/stainless-steel/tensorflux-sys#configuration
 [documentation]: https://stainless-steel.github.io/tensorflux
 [requirements]: https://github.com/stainless-steel/tensorflux-sys#requirements
